@@ -1,6 +1,5 @@
 # PyTorch desde Cero — Implementación manual de capas, optimizadores y funciones
- 
-Proyecto final de la asignatura **Deep Learning / PyTorch** (IMAT — Comillas ICAI).  
+   
 Implementación manual en PyTorch de más de 100 componentes de redes neuronales: funciones de activación, capas convolucionales, recurrentes, de normalización, dropout, padding, pooling, funciones de pérdida, optimizadores y schedulers de learning rate — todos implementados desde cero usando `torch.autograd.Function` con forward y backward personalizados.
  
 ---
@@ -152,5 +151,3 @@ MSELoss, L1Loss, HuberLoss, SmoothL1Loss, BCELoss, BCEWithLogitsLoss, CrossEntro
 ## Autor
  
 **Guzman Ignacio Perez Ibarz**
- 
-Proyecto final — Deep Learning con PyTorch, Grado en Ingeniería Matemática e Inteligencia Artificial (IMAT), Comillas ICAI.
